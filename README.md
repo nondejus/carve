@@ -1,1 +1,0 @@
-# growing-crystal-vs-photosyntesis
